@@ -47,7 +47,7 @@
     {
       "file": "src/web-app/index.js",
       "description": "## Modify the web application to request scope\nNow that the API requires scope, we'll modify the web app to request it. \n\nThis is done by adding the following code to our application's auth middleware configuration:\n\n``` jsx \n\nscope: \"openid profile email read:reports\",\n```\n, to continue.",
-      "line": 52,
+      "line": 53,
       "selection": {
         "start": {
           "line": 49,
